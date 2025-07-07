@@ -23,6 +23,6 @@ Follow these steps to run the project locally:
 1. **Clone this repository**
 ```bash
 git clone https://github.com/yourusername/employee-management-dashboard.git
-Run the Server using --npm start
+Run the Server using --npm install, npm start
 ![Dashboard Screenshot](public/EmployeeManagemnt-Dashboard.png)
 
