@@ -1,32 +1,7 @@
 import React, { useState, useMemo } from 'react';
 
 function App() {
-  const [employees, setEmployees] = useState([
-    {
-      id: 1,
-      name: 'John Doe',
-      department: 'Engineering',
-      role: 'Software Engineer',
-      salary: 75000,
-      status: 'Active'
-    },
-    {
-      id: 2,
-      name: 'Jane Smith',
-      department: 'HR',
-      role: 'HR Manager',
-      salary: 65000,
-      status: 'Active'
-    },
-    {
-      id: 3,
-      name: 'Bob Johnson',
-      department: 'Marketing',
-      role: 'Marketing Specialist',
-      salary: 55000,
-      status: 'Inactive'
-    }
-  ]);
+  const [employees, setEmployees] = useState([]);
   
   const [editingEmployee, setEditingEmployee] = useState(null);
   const [isModalVisible, setIsModalVisible] = useState(false);
