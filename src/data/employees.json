@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "department": "Engineering",
+    "role": "Frontend Developer",
+    "salary": 60000,
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "department": "HR",
+    "role": "HR Manager",
+    "salary": 55000,
+    "status": "Inactive"
+  }
+]
