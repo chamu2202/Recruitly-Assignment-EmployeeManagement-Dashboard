@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/72e23f40-7734-4cb3-b788-c244dfda2dfd)Employee Management Dashboard
+![Uploading Employee-management-system.png…]()
+
+Employee Management Dashboard
 
 A simple React-based web application to manage employee records.  
 This project lets you **add**, **edit**, and **delete** employees, using Ant Design components for the user interface and React for managing state.
